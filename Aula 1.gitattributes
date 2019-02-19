@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+algoritmo "primeiro"
+var
+inicio
+escreval ("ola, mundo!")
+Escreva ("Me livrei da maldição!")
+fimalgoritmo
