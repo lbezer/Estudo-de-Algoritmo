@@ -1,6 +1,14 @@
-algoritmo "primeiro"
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 19/02/2019
+// Seção de Declarações 
 var
 inicio
 escreval ("ola, mundo!")
 Escreva ("Me livrei da maldição!")
+fimalgoritmo
+
+inicio
+// Seção de Comandos 
 fimalgoritmo
