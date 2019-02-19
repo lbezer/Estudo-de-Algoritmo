@@ -2,12 +2,16 @@ algoritmo "semnome"
 
 var
 
-N1, N2: INTEIRO
+N1, N2, S: INTEIRO
 
 inicio
 Escreva ("Informe um numero ")
 Leia (N1)
 Escreva ("Informe um numero ")
 Leia (N2)
+
+S <- N1 + N2
+
+ESCREVA ("A soma entre ", N1, " e ", N2, " e igual a ", S)
 
 fimalgoritmo
