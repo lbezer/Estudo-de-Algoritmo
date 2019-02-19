@@ -1,0 +1,13 @@
+algoritmo "semnome"
+
+var
+
+N1, N2: INTEIRO
+
+inicio
+Escreva ("Informe um numero ")
+Leia (N1)
+Escreva ("Informe um numero ")
+Leia (N2)
+
+fimalgoritmo
