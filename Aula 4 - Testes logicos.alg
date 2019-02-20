@@ -7,6 +7,6 @@ A <- 2
 B <- 3
 C <- 5
 
-ESCREVA (B<=C%2)
+ESCREVA (NAO((A=B) OU (C>A)))
 
 fimalgoritmo
